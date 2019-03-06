@@ -1,0 +1,240 @@
+1551845474672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.ZSxnzOeHszsZ"
+1551845483521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551845483521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551845492812	Marionette	INFO	Listening on port 60650
+1551845493133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 15940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20272, Chrome_ChildThread] WARNING: pipe error: 109[Parent 15940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21436, Chrom1551845575391	Marionette	INFO	Stopped listening on port 60650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551845646711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.XYvHCZUNEnwh"
+1551845647896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551845647896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551845651565	Marionette	INFO	Listening on port 52883
+1551845651643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11328, Chrome_ChildThread] WARNING1551845899391	Marionette	INFO	Stopped listening on port 52883
+df.js/
+1551845896857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551845901625	Marionette	INFO	Listening on port 50389
+1551845901918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.adsafeprotected.com/sca.17.4.95.js, line 33: TypeError: The ReadableStream reader was released.
+[Parent 10192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i1551846063713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551846063713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551846067398	Marionette	INFO	Listening on port 53584
+1551846067577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 18352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18[Parent 7936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7936, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_w1551846143351	Marionette	INFO	Listening on port 51912
+1551846143572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 22100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Parent 19132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22072, Chrome_Chi[Parent 19132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21108, Chrom1551846302433	Marionette	INFO	Stopped listening on port 51912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551846329920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.cdyWUumyoPMy"
+1551846331216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551846331217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551846337044	Marionette	INFO	Listening on port 55047
+1551846337102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 216: TypeError: p is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3J1Ymljb246dW5kZWZpbmVk&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzSjFZbWxqYjI0NmRXNWtaV1pwYm1WayIsIndkIjp7ImsiOnsiaGJfYmlkZGVyIjpbInJ1Ymljb24iXSwiaGJfc2l6ZSI6W251bGxdfX0sIndyIjowfQ==, line 1: TypeError: c is undefined
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.adsafeprotected.com/sca.17.4.95.js, line 33: TypeError: The ReadableStream reader was released.
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3J1Ymljb246dW5kZWZpbmVk&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzSjFZbWxqYjI0NmRXNWtaV1pwYm1WayIsIndkIjp7ImsiOnsiaGJfYmlkZGVyIjpbInJ1Ymljb24iXSwiaGJfc2l6ZSI6W251bGxdfX0sIndyIjowfQ==, line 1: TypeError: c is undefined
+1551846620661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.gfUCpAh1cFhH"
+1551846621812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551846621812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551846625500	Marionette	INFO	Listening on port 53320
+1551846625630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3J1Ymljb246dW5kZWZpbmVk&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzSjFZbWxqYjI0NmRXNWtaV1pwYm1WayIsIndkIjp7ImsiOnsiaGJfYmlkZGVyIjpbInJ1Ymljb24iXSwiaGJfc2l6ZSI6W251bGxdfX0sIndyIjowfQ==, line 1: TypeError: c is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3B1Ym1hdGljOnVuZGVmaW5lZA%3D%3D&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzQjFZbTFoZEdsak9uVnVaR1ZtYVc1bFpBPT0iLCJ3ZCI6eyJrIjp7ImhiX2JpZGRlciI6WyJwdWJtYXRpYyJdLCJoYl9zaXplIjpbbnVsbF19fSwid3IiOjB9, line 1: TypeError: c is undefined
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 696: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 216: TypeError: p is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 19056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19056, Chrome_Chil[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17744, Chrome_Chil[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8088, Ch[Parent 11884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1761551846802760	Marionette	INFO	Stopped listening on port 53320
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551846808438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.eBnMKuRa4cRg"
+1551846809265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551846809266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551846812778	Marionette	INFO	Listening on port 54749
+1551846812873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 216: TypeError: p is undefined
+[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 21924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21924, Chrome_ChildThread[Parent 4548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 21644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1551846961443	Marionette	INFO	Stopped listening on port 54749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1551846966599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ahmad\\AppData\\Local\\Temp\\rust_mozprofile.NFzJKuKwzBx5"
+1551846967475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551846967475	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551846971291	Marionette	INFO	Listening on port 59058
+1551846971532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 216: TypeError: p is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3J1Ymljb246dW5kZWZpbmVk&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzSjFZbWxqYjI0NmRXNWtaV1pwYm1WayIsIndkIjp7ImsiOnsiaGJfYmlkZGVyIjpbInJ1Ymljb24iXSwiaGJfc2l6ZSI6W251bGxdfX0sIndyIjowfQ==, line 1: TypeError: c is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://cdn.10fastfingers.com/js/speedtest/speedtest.js?1551274819, line 231: TypeError: words[word_pointer] is undefined
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3J1Ymljb246dW5kZWZpbmVk&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzSjFZbWxqYjI0NmRXNWtaV1pwYm1WayIsIndkIjp7ImsiOnsiaGJfYmlkZGVyIjpbInJ1Ymljb24iXSwiaGJfc2l6ZSI6W251bGxdfX0sIndyIjowfQ==, line 1: TypeError: c is undefined
+JavaScript error: https://clarium.global.ssl.fastly.net/?wrapper=dvS98IKwDukcG6gPDYBBcCk9sKY&tpid=ZHZTOThJS3dEdWtjRzZnUERZQkJjQ2s5c0tZL3B1Ym1hdGljOnVuZGVmaW5lZA%3D%3D&d=eyJ3aCI6IlpIWlRPVGhKUzNkRWRXdGpSelpuVUVSWlFrSmpRMnM1YzB0WkwzQjFZbTFoZEdsak9uVnVaR1ZtYVc1bFpBPT0iLCJ3ZCI6eyJrIjp7ImhiX2JpZGRlciI6WyJwdWJtYXRpYyJdLCJoYl9zaXplIjpbbnVsbF19fSwid3IiOjB9, line 1: TypeError: c is undefined
+[Child 13604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1360[Parent 18356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17820, Chrome[Parent 18356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2211551847123523	Marionette	INFO	Stopped listening on port 59058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
